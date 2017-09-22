@@ -10,7 +10,7 @@ Apart from bad culture fits, each person can feel comfortable in a team. It all 
 
 Let's make this simple...
 
-#####Everyone needs to:
+## ## #Everyone needs to:
 - feel their opinion is valued (listen)
 - have an opportunity to speak
 - have the freedom to speak their mind

@@ -8,10 +8,10 @@ As Christmas heads our way, families and team members are creating lists for gif
 
 Instead of spending lots of time creating those lists, I've created a solution
 
-##The Solution
+## The Solution
 Just list the names and begin the gift swapping.
 
-##The App
+## The App
 Last year I created a simple web application to make this a breeze. Feel free to go back and [read the initial details](http://blog.chancesmith.org/gift-match-app/).
 
 No more writing, hat drawing, or cat skinning. Make it fast and simple.
@@ -20,7 +20,7 @@ Still want to spend time together in the process? Pass a phone around.
 
 Checkout the app: https://giftmatch.herokuapp.com/
 
-##The Update
+## The Update
 After one year, I'm giving this app a little update:
 
 - shuffle button added on results page

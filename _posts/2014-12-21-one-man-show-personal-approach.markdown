@@ -18,7 +18,7 @@ Anyone else can do the job you do, it's the relationship that matters most.
 
 Get personal yo!
 
-####Use your face...
+## ## Use your face...
 - in a gif #sawThatComing
 - in your email signature
 - in your marketing pieces
@@ -29,7 +29,7 @@ Here is my email signature:
 
 I know. I know. I'll make a gif email signature soon.
 
-####Find ways to make it fun
+## ## Find ways to make it fun
 The best I can do is share an example.
 
 This week, one of our designers was traveling before the holidays to see a friend in Seattle. She was sharing her adventure with me, telling me she sat between two fairly large people on the plane. I staged a photo and replied with this:
@@ -44,10 +44,10 @@ I sent this back to her:
 
 ![chance smith nailed it](/content/images/2014/12/chance-smith-car-nailed-it.jpg)
 
-####Take personal responsibility for mistakes
+## ## Take personal responsibility for mistakes
 Own your mistakes. Workout your humility and honesty muscles. It goes a long way.
 
-####Aftermath
+## ## Aftermath
 Have any ways you keep it *really real* with your customers?
 
 I'm all ears. #gif

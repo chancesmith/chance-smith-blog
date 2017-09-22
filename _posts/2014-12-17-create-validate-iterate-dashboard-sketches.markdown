@@ -54,16 +54,16 @@ Here I zoom out and label the areas to get a big picture of the new dashboard.
 Here I zoom out and label the areas to get a big picture of the new dashboard.
 
 
-##Aftermath
+## Aftermath
 I am happy with how far away I've moved from the original design of the Lean Dashboard. With a little more work and strategy I feel this can be a tool to be used.
 
-Most importantly the flow is clearer. Due to the arrows, they help give guidance and navigation cues for the user's eyes. 
+Most importantly the flow is clearer. Due to the arrows, they help give guidance and navigation cues for the user's eyes.
 
 Here is a clear picture of direction I did in Skitch.
 ![create validate iterate sketch #10 flow](/content/images/2014/12/10-create-validate-iterate-sketch-flow.png)
 
-##Worries
+## Worries
 I'm fearful of how the goals will fit in the Future section. Also, I'm wondering how big this will have to be. With 8.5" x 11" as a starting point, we'll see how it works on something bigger.
 
-##Next Phase
+## Next Phase
 Next I will be taking this design to a whiteboard and start running it through a few trials. Then either make more changes or move onto real use cases.

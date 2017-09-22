@@ -12,25 +12,25 @@ Our team is a startup. We are trying to make decisions loose but fast. The soone
 
 As for developement, we were currently making more progress to date using MeteorJS. Switching to Rails seems counter intuitive.
 
-##The Questions
+## The Questions
 - Do I really want to learn Ruby?
 - Is learning Ruby going to do great things for my career?
 - Where are Ruby and other programming languages in their lifecycle?
 
-##Using Google Trends to Answer
+## Using Google Trends to Answer
 I decided to dig into Google Trends as a way to see the lifecycle of developement trends. I was hoping this would give me some insight on how I might make this choice.
 
-##Interpreting Developement Trends
+## Interpreting Developement Trends
 The visual of Google search volume that Google Trends graphs out means something different products, digital content (blog posts and videos) and programming languages.
 
 For programming languages, let's break down the up and down trend.
 
-###Why an up trend of coding languages?
+## #Why an up trend of coding languages?
 
 - language is gaining interest and followers
 - new developers are running into problems and are searching for answers
 
-###Why a down trend of coding languages
+## #Why a down trend of coding languages
 
 - less interest in the language
 - bugs are getting squished

@@ -13,13 +13,13 @@ Saving/bookmarking websites you use all day into a folder, and opening all of th
 
 Here is how I do it:
 
-##Step #1 GIF
+## Step #1 GIF
 Bookmark all tabs you like to have into a folder.
 ![work browser setup](/content/images/2015/01/browserA.gif)
 
-##Step #2 GIF
+## Step #2 GIF
 Right-click "Work" folder and open all tabs. Then pin them all.
 ![work browser setup](/content/images/2015/01/browserB.gif)
 
-##TLDW: Short Video
+## TLDW: Short Video
 <iframe width="640" height="360" src="//www.youtube.com/embed/Ti958Io-ZOc?rel=0" frameborder="0" allowfullscreen></iframe>

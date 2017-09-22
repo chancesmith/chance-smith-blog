@@ -16,13 +16,13 @@ Enter the Lean Dashboard:
 
 I love Maurya's dashboard, but I feel...
 
-##The Dashboard Can Be Improved and Repurposed To Have...
+## The Dashboard Can Be Improved and Repurposed To Have...
 
 * multipurpose usecases
 * clear visual flow
 * multiple goals
 
-##But Chance, You’re Screwing It Up
+## But Chance, You’re Screwing It Up
 
 Maybe, but I’m conducting a test for testing’s sake. I’m sure others told Salvador Dalí or Picasso they were messing up too. I forge on.
 
@@ -30,17 +30,17 @@ Also, I’m not proposing anything change with the Lean Dashboard. I’m iterati
 
 I'm proposing the creation of a new dashboard.
 
-##Multipurpose
+## Multipurpose
 
 What about making experiments with websites, print, and ads for restaurants, design firms, and banks.
 
 So, create an information radiator that any team can use to help visually and interactively help achieve company goals. A tool that is not just for starting and validating a business, but for growing it.
 
-##Clear Visual Flow
+## Clear Visual Flow
 
 With the Lean Dashboard, I feel there is something that can be added to make it more intuitive. The flow of information is not clear. I want this dashboard's information to be easly consumed at a glance. I want its use to be clear for the teams I introduce this new dashboard to.
 
-##Multiple Goals
+## Multiple Goals
 
 From the examples I’ve seen of the Lean Dashboard, the goal is always the same. Yet, time and quantity change or increase.
 
@@ -50,7 +50,7 @@ Example Goals:
 * 4,000 Users third quarter
 * 11,00 Users fourth quarter
 
-This is great for adding customers to your service and validating the business model. In a business that is already established there are serval goals that need to be achieved. 
+This is great for adding customers to your service and validating the business model. In a business that is already established there are serval goals that need to be achieved.
 
 A bank, for instance, might want more qualified home loan inquires, more positive customer reviews, and faster drive-thru service. We could use a dashboard, similar to Maurya’s, to have multiple goals being tracked while running multiple projects.
 
@@ -58,9 +58,9 @@ A bank, for instance, might want more qualified home loan inquires, more positiv
 
 I’ve started sketches to rethinking the Lean Dashboard to help achieve the above. Here is where I am so far... [the new dashboard sketches](http://blog.chancesmith.org/create-validate-iterate-dashboard-sketches/)
 
-Maybe soon I'll have a name for it. 
+Maybe soon I'll have a name for it.
 
 
-###Kudos to
+## #Kudos to
 * [Ash Maurya](http://practicetrumpstheory.com/)
 * [Lean Dashboard](http://leanstack.com/)

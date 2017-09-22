@@ -14,40 +14,40 @@ All that to say, here I'm share my setup for when I work on Wordpress. I get jaz
 
 Currently, this is what my toolbelt looks like for build and developing Wordpress themes.
 
-##Mac
+## Mac
 I work on a Mid-2012 15 inch MacPro. Oldy but still customizable.
 
-##Sage theme boilerplate (gulp,sass)
+## Sage theme boilerplate (gulp,sass)
 The last two themes built, I've used Sage as a starting point. Since Gulp and SASS are already baked in, this helps get rolling much quicker.
 
 As Roots recommends, if you are just starting with Wordpress development, you might not want to start with Sage.
 
-##MAMP
-For a local development environment, I use MAMP to have a local server to install Wordpress on. There is no need to push files up via FTP every time you want to see changes to your website. 
+## MAMP
+For a local development environment, I use MAMP to have a local server to install Wordpress on. There is no need to push files up via FTP every time you want to see changes to your website.
 
 Whether you are using Wordpress or not, always find a way to see your website locally. This will increase your developement speed exponentially.
 
-##WP Migrate DB Pro
+## WP Migrate DB Pro
 Another time saver is WPMDBP (however it is best to abbreviate). With this tool you can copy the database to any location you want. Local, dev (testing server) or live, it doesn't matter.
 
 WPMDBP will also copy uploads to any location you wish. Compared to FTPing down and up files manually, it's really a great experience! #mindBlown
 
-##Advanced Custom Fields or CMB2
+## Advanced Custom Fields or CMB2
 When building a theme, customers want there to be editable sections, and not everything needs to go  in the WYSIWYG.
 
 ACF and CMB2 are great for building in custom fields, or meta boxes, for customer to be able to edit parts of the pages on their site.
 
 This flexibility helps your customer have the power to edit all of the right things and none of the wrong things. Powerful indeed.
 
-##BitBucket
+## BitBucket
 I use BitBucket to save my code using Git. Git makes it great for sharing, collaborating and keeping up with the history of your code.
 
 If you're not familiar with Git, this can take some time to wrap your mind around.
 
-##All that to say
+## All that to say
 Find a setup that works for you. Try out tools that best fit your workflow and get to work.
 
-##Here are links for the above tools:
+## Here are links for the above tools:
 
 - [Sage by Roots](https://roots.io/sage/)
 - [MAMP](https://www.mamp.info/)

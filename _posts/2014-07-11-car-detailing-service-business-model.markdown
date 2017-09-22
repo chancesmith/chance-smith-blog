@@ -14,13 +14,13 @@ The only experience I've had with a car detail services was with a team that was
 
 It's now 2014 and I have encountered an epic spin the on the car detail business. I have not used this service but I want to reach out and get more details. I'll update the post and tag at the top when updated.
 
-##This business model
+## This business model
 
 My wife works at a school and the parking lot is filled with teachers and faculty vehicles all day. The car detailing team comes every Tuesday and any car that has a specific tag on the car gets detailed. I am assuming that the car owner leaves the keys in the car and they use the schools water and electricity for operations.
 
 They have a small team of 5 and charge $60 per car. I am also assuming that they give a percentage of income to the school or reimburse the school for the utility expenses. Otherwise this private school is super generous.
 
-##What I love the most about this business model
+## What I love the most about this business model
 
 I'll just answer this with questions.
 
@@ -28,7 +28,7 @@ How many parking lots can they do at once?
 How many parking lots can they do in a month?
 How happy is the person that comes out of work to a spectacularly clean car?
 
-##Business Model Aftermath
+## Business Model Aftermath
 The person doesn't have to waste their precious time driving to your shop and waiting for you to get done. They walk out of a day of hard work and they have a exceptionally clean car.
 
 My mind says, "You, detailer, just made it easy and we all love that."

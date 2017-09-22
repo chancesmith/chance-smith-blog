@@ -10,7 +10,7 @@ Whether your company is outsourcing your phone support overseas or not, please i
 
 Don't know how? Here, let us all pitch in some great ideas.
 
-##Let the phone support scenarios begin
+## Let the phone support scenarios begin
 I've split the scenarios up into three sections each.
 
 - Common - what happens often enough
@@ -19,13 +19,13 @@ I've split the scenarios up into three sections each.
 
 Here we go...
 
-###Call waiting
+## #Call waiting
 
 --------
-####Common:
+## ## Common:
 - we don't know how long we'll be on hold for
 
-####Ideal:
+## ## Ideal:
 - we could know how much longer until it's our turn
 - how many people are available to support the call load?
 
@@ -34,32 +34,32 @@ Improve:
 - update estimate and number in line every 2-3 mins (or when changed)
 - tell us how many representatives are on shift
 
-###Representative picks up phone
+## #Representative picks up phone
 
 --------
-####Common:
+## ## Common:
 - answer isn't personal
 - we have to repeat ourselves over and over
 
-####Ideal:
+## ## Ideal:
 - know our question before we have to ask it
 - save information across calls (phone, past questions)
 
-####Improve:
+## ## Improve:
 - ask questions while we wait
 - answer with our name. "Hey, Chance! ..."
 - give representative the most information about us before they pick up the call
 
-##During call with representative
+## During call with representative
 
 --------
-####Common:
+## ## Common:
 - we have trouble understanding the outsourced, overseas, support representative
 
-####Ideal:
+## ## Ideal:
 - our knowledgeable neighbor picks up the phone
 
-####Improve:
+## ## Improve:
 - make the representative's accent that answers relative to the customer's accent
 
 If customers received wonderful support, would they not pay more for your product? I would!
