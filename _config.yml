@@ -1,5 +1,5 @@
 # Site settings
-title: Blog | Chance Smith
+title: Chance Smith
 description: This guy likes to learn and test ideas.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://blog.chancesmith.org" # the base hostname & protocol for your site
