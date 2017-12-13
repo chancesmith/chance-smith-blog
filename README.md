@@ -1,3 +1,8 @@
-# juanfranblanco.github.io
+# Chance Smith's blog
 
-Web UI more info here http://juan.blanco.ws/blog-from-ghost-to-jekyll-github-io/
+## setup
+- isntall ruby
+- run $`bundle install`
+
+## build and run lcoally
+- $`bundle exec jekyll serve`
