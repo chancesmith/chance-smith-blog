@@ -4,6 +4,7 @@ title: Improving Customer Service and Casting Your Vision
 date: '2017-12-17 10:15:30'
 tags:
 - customer-service
+- leadership
 ---
 A letter to the team...
 
