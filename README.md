@@ -1,8 +1,10 @@
 # Chance Smith's blog
 
 ## setup
-- isntall ruby
+
+- install ruby
 - run $`bundle install`
 
-## build and run lcoally
+## build and run locally
+
 - $`bundle exec jekyll serve`
