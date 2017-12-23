@@ -42,9 +42,9 @@ We start by moving into our project directory in side our `wip/` (work in progre
 1. install WP: $`wp core install --title=SITE_NAME --url=SITE_URL --admin_user=admin --admin_password=pass --admin_email=YOUR@EMAIL.com`
 1. TIP: here's an example of the above all at once: $`wp core download && wp core config --dbname=blog_wp --dbuser=root --dbpass= && wp db create && wp core install --title=Chance Smith Blog --url=chancesmith.test --admin_user=sh --admin_password=sh --admin_email=my@email.com`
 1. for `chancesmith.test` to work we need [Valet](https://laravel.com/docs/5.5/valet#installation) to be setup. You could you use MAMP and point to your new WP directory. MAMP would give you a local url like `http://localhost:8080` or whatever setup you prefer. Valet is just a huge time saver moving from project to project on the fly.
-1. pull down a copy of HTML5Blank if you are starting from scratch: $`git clone git@github.com:html5blank/html5blank.git`
+1. pull down a copy of HTML5Blank into your `wp-content/themes/` if you are starting from scratch
 
-Here is a snippet in VSC editor you can take with you. :)
+Here is a snippet in [VSC](https://code.visualstudio.com/) editor you can take with you. :)
 We just fire up VSC, type `wpsetup` and press TAB to then help setup the query from above to then copy and paste into our terminal.
 
 ```json
