@@ -6,6 +6,9 @@ tags:
 - web-development
 ---
 
+Updated post here (late 2017):
+http://blog.chancesmith.org/2017/12/17/update-local-wordpress-setup/
+
 Over the past three years I've built a handle full of themes. The last 12-14 months possibly has been the heaviest amount lifting in the world of Wordpress.
 
 One thing that has saved me more time in developement, or anything I have ever done, is finding a mentor to bring me up to speed. Not having a mentor has also contributed to the considerable amount of time I've wasted. Teachers and mentor share their wisdom. Find some and work together.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: (Update) WordPress local setup
-date: '2017-12-17 10:15:30'
+date: '2017-12-22 10:15:30'
 tags:
 - web-development
 ---
@@ -10,7 +10,7 @@ Do you have a good way to test your changes before pushing them live?
 
 Let's go through a way to setup WordPress on your computer. This way you can wring out any bugs before pushing to your production website.
 
-This post is an update from last year. Our current setup is much faster for setting up new sites.
+This post is an update from [last year](http://blog.chancesmith.org/2016/06/13/local-wordpress-development-setup/). Our current setup is much faster for setting up new sites.
 
 ## Why WordPress?
 
