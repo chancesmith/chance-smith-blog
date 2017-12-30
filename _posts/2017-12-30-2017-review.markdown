@@ -10,12 +10,12 @@ With goals set last year, and 12 months past, let's see what my 2017 looked like
 
 # Goals set for 2017
 
-+ [X] 7 streams of income
-+ [ ] 3 books a month
 + [X] lead a meetup
 + [X] teach coding workshops
 + [X] attend 2 conferences
++ [ ] 3 books a month
 + [X] mentor new coders
++ [X] 7 streams of income
 
 *Time tracking metrics first:*
 tracked in [Toggl](https://toggl.com/)
@@ -25,6 +25,8 @@ tracked in [Toggl](https://toggl.com/)
 + 310 hours from extra work
 
 This is totalling to 60 five-day work weeks. 😣 🤑
+
+![chance's desk at theCO]({{ "/assets/2017/12/chance-smith-desk.JPG" | absolute_url }})
 
 -----
 
@@ -67,6 +69,8 @@ I got stuck on "Bringing Up Boys" for the longest. Dr. Dobson has a ton of examp
 
 ## Lead a meetup
 
+![meetup 2017 photo]({{ "/assets/2017/12/chance-meetup.jpg" | absolute_url }})
+
 I had the oppurtunity to lead the [CO:de meetup](http://code.attheco.com) every month. There has been an average of 10 people for each meetup.
 
 I've done *20 videos* for CO:de and some of which have been used for the Dev.Catalyst program.
@@ -77,6 +81,9 @@ https://www.youtube.com/playlist?list=PLnmaTbl4XQyQfwDVYnq9q5Tf4pNdl1Dh1
 ## Teach coding
 
 This year I have created a workshop for beginner web developers that I've lead 4 times this year to *40+ people*.
+
+![chance teaching JS workshop 2017]({{ "/assets/2017/12/devcat-workshop.jpg" | absolute_url }})
+![chance teaching HTML workshop 2017]({{ "/assets/2017/12/devcat-workshop-2.jpg" | absolute_url }})
 
 -----
 
@@ -99,10 +106,28 @@ The workshops, leading a meetup, and now mentoring a couple members in Sodium Ha
 + made a average 13% ROI on each crypto investment with a total of 105% ROI
 + practiced a good bit with ReactJS and VueJS (Javascript frameworks)
 
+![devcat trip 2017]({{ "/assets/2017/12/devcat-trip-2017.jpg" | absolute_url }})
+
+## Progress made
+
+Some wins along the way...
+
++ healthy and happy family
++ bought 2 vechicals in a 3 month period (no more please)
++ Sodium Halogen completed 6+ projects
+
+Smoothie King got a new remodel
+![sk remodel 2017]({{ "/assets/2017/12/sk-remodel.JPG" | absolute_url }})
+
+Python Photobooth - 80 hours in 1 month along side Sodium Halogen work.
+![python photo booth 2017]({{ "/assets/2017/12/python-photo-booth-theco-buses.JPG" | absolute_url }})
+
 ## Warp up
 
 I recommend everyone set goals and keep track. This has been very insightful.
 
 Now I need to set my goals for next year. Join me. 😊
+
+![chance smith]({{ "/assets/2017/12/chance-smith.JPG" | absolute_url }})
 
 If you liked this or want to chat, [get in touch with me](https://twitter.com/Chance_Smith).
