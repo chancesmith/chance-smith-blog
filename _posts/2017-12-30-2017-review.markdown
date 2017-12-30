@@ -17,7 +17,7 @@ With goals set last year and 12 months past let's see what my 2017 looked like.
 + [X] attend 2 conferences
 + [X] mentor new coders
 
-Time tracking metrics first:
+*Time tracking metrics first:*
 tracked in [Toggl](https://toggl.com/)
 
 + 1988 hours with Sodium Halogen
