@@ -6,7 +6,7 @@ tags:
 - goals
 ---
 
-With goals set last year and 12 months past let's see what my 2017 looked like.
+With goals set last year, and 12 months past, let's see what my 2017 looked like.
 
 # Goals set for 2017
 
@@ -36,9 +36,11 @@ Boom! We did it.
 
 + [Sodium Halogen](http://sodiumhalogen.com) - lead developer
 + [Smoothie King](http://smoothieking.com) - project management
-+ [Wolfgang Computer](http://wolfgangcomputer.com) - websites/apps/computers
++ [Wolfgang Computer](http://wolfgangcomputer.com) - 6 websites/apps/computers
 + [Dev.Catalyst](https://www.attheco.com/devcatalyst) videos\*
++ [Dev.Catalyst](https://www.attheco.com/devcatalyst) workshop\*
 + [theCO](attheco.com) Buses - photobooth in Python\*
++ [theCO](attheco.com) Workshops\*
 
 #### Molly ([wife](https://twitter.com/MissMollyAnn)):
 
