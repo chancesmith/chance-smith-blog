@@ -116,7 +116,7 @@ Some wins along the way...
 + bought 2 vehicles in a 3 month period (no more please)
 + Sodium Halogen completed 6+ projects
 
-Smoothie King got a new remodel
+Smoothie King got a remodel
 ![sk remodel 2017]({{ "/assets/2017/12/sk-remodel.JPG" | absolute_url }})
 
 Python Photobooth - 80 hours in 1 month along side Sodium Halogen work.
