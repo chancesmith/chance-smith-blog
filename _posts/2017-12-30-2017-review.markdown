@@ -82,19 +82,20 @@ This year I have created a workshop for beginner web developers that I've lead 4
 
 + [C4TK](http://codeforthekingdom.org/): Code 4 The Kingdom (won hackathon 2nd year in a row)
 + [Nodevember](http://nodevember.org/) (5th time to attend)
-+ singed up for Python conf for 2018 - [PyTN](https://www.pytennessee.org/)
++ signed up for Python conf for 2018 - [PyTN](https://www.pytennessee.org/)
 
 ## Mentor new coders
 
-With my solo intro to coding, it was a hard beginning. I was hoping I could encourage others into the industry and share what my experience and knowledge.
+With my solo intro into coding, it was a challenging beginning. I was hoping I could encourage others into the industry and share my experience and knowledge.
 
-The workshops, leading a meetup, and now mentoring a couple members in Sodium Halogen, it's been a good year. I've also been meeting a biology grad from Union University that is wanting to make the switch into developement. We've been meeting weekly for a few hours on Wednesday at 6am. He's been killing it. I've been very very impressed. Keep it up, Zach!
+The workshops, leading a meetup, and now mentoring a couple members in Sodium Halogen, it's been a good year. I've also been meeting with a biology grad from Union University that is wanting to make the switch into developement. We've been meeting weekly for a few hours on Wednesday at 6am. He's been killing it. I've been very-very impressed. Keep it up, Zach the Coder!
 
 ## Unexpected wins
 
 + went to San Fransico with Dev.Catalyst team and competition winning students 😮 👍
 + learned a good bit about cryptocurrencies
 + made a average 13% ROI on each crypto investment with a total of 105% ROI
++ practiced a good bit with ReactJS and VueJS (Javascript frameworks)
 
 ## Warp up
 
