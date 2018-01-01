@@ -119,7 +119,7 @@ Some wins along the way...
 Smoothie King got a remodel
 ![sk remodel 2017]({{ "/assets/2017/12/sk-remodel.JPG" | absolute_url }})
 
-Python Photobooth - 80 hours in 1 month along side Sodium Halogen work.
+Python Photo booth - 80 hours in 1 month along side Sodium Halogen work.
 ![python photo booth 2017]({{ "/assets/2017/12/python-photo-booth-theco-buses.JPG" | absolute_url }})
 
 ## Warp up
