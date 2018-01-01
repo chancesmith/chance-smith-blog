@@ -64,4 +64,6 @@ My overarching goals are to: read more 📚, share progress 🎤, more fit 💪,
 
 I was able to make these routines by listing out the items I wanted to make progress on everyday.
 
+I'm excited about 2018 and hoping to make it fun and memorable. Here we go...day one.
+
 If you liked this or want to chat, [get in touch with me](https://twitter.com/Chance_Smith).
