@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Daily Routines - simple small bites to achieve the goals we set
+title: Daily Routines - small simple bites to achieve the goals we set
 date: '2018-01-01 7:46:00'
 tags:
 - systems
