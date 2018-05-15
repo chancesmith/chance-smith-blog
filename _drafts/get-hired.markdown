@@ -19,13 +19,22 @@ If you really have great ambision and can really put forth effort to excell, you
 
 Make the connection with someone that already works at the company of your current dreams (dreams change, I get it).
 
+Kick off the convo sharing that you're really interested in working with Company-X. Then begin learing about what they do and how they like their job.
+
 ## Ask them the right questions
 
+– What are you guys working on?
 – What are the challenges you see at Sodium Halogen?
-–
+
+You're fishing for indicators of neds you can fill or their need for more talent.
 
 ## Modify, Fill-in, and Send this email
 
+Filling in the Challenges and Solutions for Company-X will just be the start. The last 4 statements will be more challenging.
+
+You'll need to also replace Sodium-Halogen/SH for the company you want to join and replace my name with the person you want to talk to, but get this email out.
+
+```
 Hey, `**HIREE**`!
 
 `**Chance**` and I had talked this week about what it would look like if I temporarily joined Sodium Halogen for 3 or so months. The last update from Chance was that it might not be the right time just yet. (<-- If that is the case. :D )
@@ -51,3 +60,10 @@ What I'm excited about with working with SH \*
 How I plan on convincing you/SH to keep me on the team after 3 months \*
 
 Work I've done to prepare for working with SH \*
+```
+
+## You've got this
+
+If you can create this email and show you really care to do great things that benefit everyone, you'll have no problem getting in.
+
+I'd love to hear how this works for you. [Shoot me a message](https://twitter.com/chance_smith).
